@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Q-Tree/Notes/Automation/Framework/Jar/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Q-Tree/Notes/Automation/Framework/Jar/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/Q-Tree/Notes/Automation/Framework/Jar/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Q-Tree/Notes/Automation/Framework/Jar/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Q-Tree/Notes/Automation/Framework/Jar/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Q-Tree/Notes/Automation/Framework/Jar/poi-ooxml-schemas-3.17 (1).jar"/>
+	<classpathentry kind="lib" path="D:/Q-Tree/Notes/Automation/Framework/Jar/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Q-Tree/Notes/Second_Syllabus/Selenium/Jars/Extentreport/extentreports-2.41.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
